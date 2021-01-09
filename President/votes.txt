@@ -1,0 +1,7 @@
+Name: Arif
+Surname: Bagirli
+Age: 18
+Speciality: Software Developer
+Voted to: President 1
+Voted date time: 9/1/2021 19:59
+
